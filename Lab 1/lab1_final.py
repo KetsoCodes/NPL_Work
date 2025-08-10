@@ -1,4 +1,4 @@
-# lab1_final_opt.py
+# hyper-parameter to be tweaked to find optimal network
 import argparse
 import os
 import re
